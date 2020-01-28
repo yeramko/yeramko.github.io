@@ -1,3 +1,10 @@
+html {
+  font-size: 62.5%;
+  font-family: 'Libre Baskerville', Georgia, serif;
+  color: #494c4e;
+  -webkit-font-smoothing: antialiased;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
