@@ -23,7 +23,8 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Libre Baskerville', Georgia, serif;
+    display: block;
+    font-family: "utopia-std-display", sans-serif;
 }
 p {
     font-size: 1.5em;
